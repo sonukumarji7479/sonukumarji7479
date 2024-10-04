@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu kumar</h1>
 <h3 align="center">I am coding Enthusiast</h3>
-<img aling="right" width=200 alt="coding" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img aling="left" width=300 alt="coding" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonukumarji7479&label=Profile%20views&color=0e75b6&style=flat" alt="sonukumarji7479" /> </p>
 
