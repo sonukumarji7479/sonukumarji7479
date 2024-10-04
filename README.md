@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **c program**
+- 🔭 I’m currently working on **c/c++ with DSA program**
 
 - 🌱 I’m currently learning **C/C++ With DSA Course**
 
-- 👯 I’m looking to collaborate on **C++ with DSA**
+- 👯 I’m looking to collaborate on **C/C++ with DSA**
 
 - 💬 Ask me about **HTML,CSS,C**
 
