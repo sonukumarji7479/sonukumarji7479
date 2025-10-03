@@ -1,4 +1,4 @@
-![logo]()
+![logo](Neon.gif)
 # 💫👋 Hi, I’m Sonu Kumar
 💻 I am a Python Full Stack Web Developer passionate about building modern, scalable, and efficient web applications.<br><br>🌐 I work on both Frontend (HTML, CSS, JavaScript) and Backend (Python, Django, Flask), creating seamless and interactive user experiences.<br><br>🗄 I design and manage databases like MySQL, PostgreSQL, and MongoDB to build reliable, data-driven applications.<br><br>⚡ I enjoy developing REST APIs and crafting solutions that are not only functional but also user-friendly and optimized.<br><br>📚 I am continuously improving my skills in Data Structures, Algorithms, and System Design to become a stronger, more versatile developer.<br><br>🚀 My goal is to transform ideas into real-world projects that are fast, scalable, and impactful, making a difference through code.
 
