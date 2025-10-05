@@ -1,9 +1,39 @@
 ![logo](Neon.gif)
-# 💫👋 Hi, I’m Sonu Kumar
-💻 I am a Python Full Stack Web Developer passionate about building modern, scalable, and efficient web applications.<br><br>🌐 I work on both Frontend (HTML, CSS, JavaScript) and Backend (Python, Django, Flask), creating seamless and interactive user experiences.<br><br>🗄 I design and manage databases like MySQL, PostgreSQL, and MongoDB to build reliable, data-driven applications.<br><br>⚡ I enjoy developing REST APIs and crafting solutions that are not only functional but also user-friendly and optimized.<br><br>📚 I am continuously improving my skills in Data Structures, Algorithms, and System Design to become a stronger, more versatile developer.<br><br>🚀 My goal is to transform ideas into real-world projects that are fast, scalable, and impactful, making a difference through code.
+<div align="center" style="border: 2px solid #7a00ff; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a001a, #190033);">
 
-## 💗 SPONSOR ME:
-[![💗 Sponsor Me](https://img.shields.io/badge/Sponsor-💗-6a0dad?style=for-the-badge&logo=github&logoColor=white&colorA=6a0dad&colorB=800080)](https://github.com/sponsors/sonukumarji7479)
+<table>
+<tr>
+<td align="left" width="70%" style="vertical-align: top; padding: 15px;">
+
+<h1>💫👋 Hi, I’m <span style="color:#a855f7;">Sonu Kumar</span></h1>
+
+💻 I am a <b>Python Full Stack Web Developer</b> passionate about building modern, scalable, and efficient web applications.<br><br>
+🌐 I work on both <b>Frontend (HTML, CSS, JavaScript)</b> and <b>Backend (Python, Django, Flask)</b>, creating seamless and interactive user experiences.<br><br>
+🗄 I design and manage databases like <b>MySQL, PostgreSQL, and MongoDB</b> to build reliable, data-driven applications.<br><br>
+⚡ I enjoy developing <b>REST APIs</b> and crafting solutions that are not only functional but also user-friendly and optimized.<br><br>
+📚 I am continuously improving my skills in <b>Data Structures, Algorithms, and System Design</b> to become a stronger, more versatile developer.<br><br>
+🚀 My goal is to transform ideas into real-world projects that are fast, scalable, and impactful, making a difference through code.
+
+</td>
+
+<td align="center" width="30%" style="vertical-align: middle; padding: 15px;">
+  
+<h2>💗 SPONSOR ME</h2>
+
+<a href="https://github.com/sponsors/sonukumarji7479">
+  <img src="https://img.shields.io/badge/Sponsor-💗-6a0dad?style=for-the-badge&logo=github&logoColor=white&colorA=6a0dad&colorB=800080" alt="Sponsor Sonu Kumar">
+</a>
+
+<br><br>
+
+<img src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" width="200px">
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/profile.php?id=100049635426034) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/boy7.s?utm_medium=copy_link) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonu-kumar-5b4753280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/channel/UCc1-1yV9uLieezOky-zGEJg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukumar9303343@gmail.com)
@@ -38,20 +68,54 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sonukumarji7479&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sonukumarji7479&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumarji7479&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
-
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sonukumarji7479&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sonukumarji7479&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<div align="center" style="border: 2px solid #7a00ff; border-radius: 15px; padding: 15px; background: linear-gradient(135deg, #0a001a, #190033);">
+
+<table>
+<tr>
+<td align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=sonukumarji7479&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
+
+</td>
+<td align="center">
+  
+<img src="https://nirzak-streak-stats.vercel.app/?user=sonukumarji7479&theme=tokyonight&hide_border=false" height="160px"/>
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumarji7479&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="160px"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ✨ Developer Highlights
+
+<div align="center" style="border: 2px solid #7a00ff; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a001a, #190033);">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h3>✍ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="95%"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>🔝 Top Contributed Repo</h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=sonukumarji7479&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="95%"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+
