@@ -2,6 +2,9 @@
 # 💫👋 Hi, I’m Sonu Kumar
 💻 I am a Python Full Stack Web Developer passionate about building modern, scalable, and efficient web applications.<br><br>🌐 I work on both Frontend (HTML, CSS, JavaScript) and Backend (Python, Django, Flask), creating seamless and interactive user experiences.<br><br>🗄 I design and manage databases like MySQL, PostgreSQL, and MongoDB to build reliable, data-driven applications.<br><br>⚡ I enjoy developing REST APIs and crafting solutions that are not only functional but also user-friendly and optimized.<br><br>📚 I am continuously improving my skills in Data Structures, Algorithms, and System Design to become a stronger, more versatile developer.<br><br>🚀 My goal is to transform ideas into real-world projects that are fast, scalable, and impactful, making a difference through code.
 
+## 💗 SPONSOR ME:
+[![💗 Sponsor Me](https://img.shields.io/badge/Sponsor-💗-6a0dad?style=for-the-badge&logo=github&logoColor=white&colorA=6a0dad&colorB=800080)](https://github.com/sponsors/sonukumarji7479)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/profile.php?id=100049635426034) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/boy7.s?utm_medium=copy_link) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonu-kumar-5b4753280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/channel/UCc1-1yV9uLieezOky-zGEJg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukumar9303343@gmail.com)
 
