@@ -1,4 +1,4 @@
-![logo](Neon.gif)
+![logo](main_background.gif)
 <div align="center" style="border: 2px solid #7a00ff; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a001a, #190033);">
 
 <table>
