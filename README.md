@@ -35,8 +35,14 @@
 </div>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/profile.php?id=100049635426034) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/boy7.s?utm_medium=copy_link) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonu-kumar-5b4753280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/channel/UCc1-1yV9uLieezOky-zGEJg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukumar9303343@gmail.com)
+## 🌐 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sonukumarji7479)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-5b4753280)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](http://youtube.com/channel/UCc1-1yV9uLieezOky-zGEJg)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr_sonu__0073?igsh=c2diOHdtajF4Ync4)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](http://facebook.com/profile.php?id=100049635426034)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukumar9303343@gmail.com)
+
 
 <!-- Snake Game Repo View -->
 ## 🏆 GitHub Trophies
