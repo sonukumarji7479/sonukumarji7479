@@ -109,6 +109,34 @@
 </table>
 
 <br>
+<!--fun facts-->
+<h2 align="center">🧠 Fun Facts</h2>
+
+<div align="center">
+  <table width="90%" style="max-width:900px; border-spacing:20px;">
+    <tr>
+      <td width="33%">
+        <div align="center">
+          <h3>📚 Code Explorer</h3>
+          <p>“Not just reading code — I explore it like a new world waiting to be conquered.”</p>
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <h3>🎥 Creative Storyteller</h3>
+          <p>“Turning ideas into videos that teach, inspire, and connect with people.”</p>
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <h3>🐛 The Debug Warrior</h3>
+          <p>“Bugs run away when they see my console prints. I fix errors before coffee gets cold.”</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## ✨ Developer Highlights
 
