@@ -110,21 +110,21 @@
 
 <br>
 <!--fun facts-->
-<h2 align="center">🧠 Fun Facts</h2>
+<h2 align="center">🔥 Skills & Passion</h2>
 
 <div align="center">
   <table width="90%" style="max-width:900px; border-spacing:20px;">
     <tr>
       <td width="33%">
         <div align="center">
-          <h3>📚 Code Explorer</h3>
-          <p>“Not just reading code — I explore it like a new world waiting to be conquered.”</p>
+          <h3>🎬 Video Innovator</h3>
+          <p>“Not just making videos — I create content that teaches, inspires, and connects with people.”</p>
         </div>
       </td>
       <td width="33%">
         <div align="center">
-          <h3>🎥 Creative Storyteller</h3>
-          <p>“Turning ideas into videos that teach, inspire, and connect with people.”</p>
+          <h3>📚 Code Explorer</h3>
+          <p>“Not just reading code — I explore it like a new world waiting to be conquered.”</p>
         </div>
       </td>
       <td width="33%">
@@ -136,6 +136,7 @@
     </tr>
   </table>
 </div>
+
 
 
 ## ✨ Developer Highlights
