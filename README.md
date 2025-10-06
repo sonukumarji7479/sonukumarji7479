@@ -145,8 +145,6 @@
   </table>
 </div>
 
-
-
 ## ✨ Developer Highlights
 
 <div align="center" style="border: 2px solid #7a00ff; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a001a, #190033);">
@@ -169,5 +167,14 @@
 </tr>
 </table>
 </div>
+
+<h2 align="center">💬 Daily Dose of Inspiration</h2>
+
+<p align="center">
+  <i>"Don’t compare yourself with anyone in this world…<br>
+  if you do so, you are insulting yourself."</i>
+  <br>— <strong>Bill Gates</strong>
+</p>
+
 
 
