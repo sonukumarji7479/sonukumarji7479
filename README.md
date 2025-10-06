@@ -34,14 +34,16 @@
 
 </div>
 
-
 ## 🌐 Connect with me
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sonukumarji7479)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-5b4753280)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](http://youtube.com/channel/UCc1-1yV9uLieezOky-zGEJg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr_sonu__0073?igsh=c2diOHdtajF4Ync4)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](http://facebook.com/profile.php?id=100049635426034)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukumar9303343@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sonukumar9303343@gmail.com&su=Hello%20Sonu%20Kumar&body=Hi%20Sonu,%20I%20saw%20your%20GitHub%20profile!)
+
+
 
 
 <!-- Snake Game Repo View -->
