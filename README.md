@@ -109,21 +109,24 @@
 <tr>
 <td align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=sonukumarji7479&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sonukumarji7479&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
 
 </td>
 <td align="center">
   
-<img src="https://nirzak-streak-stats.vercel.app/?user=sonukumarji7479&theme=tokyonight&hide_border=false" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonukumarji7479&theme=tokyonight&hide_border=false" height="160px"/>
 
 </td>
+
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumarji7479&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumarji7479&theme=tokyonight&hide_border=false&layout=compact" height="160px"/>
 
 </td>
 </tr>
 </table>
+</div>
+
 
 <br>
 <!--fun facts-->
