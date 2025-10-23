@@ -1,4 +1,5 @@
 ![logo](main_background.gif)
+
 <img src="https://komarev.com/ghpvc/?username=sonukumarji7479&color=brightgreen" alt="Profile Views">
 
 <div align="center" style="border: 2px solid #7a00ff; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a001a, #190033);">
@@ -6,7 +7,6 @@
 <table>
 <tr>
 <td align="left" width="70%" style="vertical-align: top; padding: 15px;">
-
 <h1>💫👋 Hi, I’m <span style="color:#a855f7;">Sonu Kumar</span></h1>
 
 💻 I am a <b>Python Full Stack Web Developer</b> passionate about building modern, scalable, and efficient web applications.<br><br>
