@@ -66,17 +66,9 @@
 
 <!--## 🏆 Premium Stats (Animated Look – Always Visible)-->
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<img src="https://raw.githubusercontent.com/sonukumarji7479/StaticAssets/main/stats.png" width="350px" style="border-radius:12px; box-shadow:0 0 25px #7a00ff;" />
-
-<img src="https://raw.githubusercontent.com/sonukumarji7479/StaticAssets/main/streak.png" width="350px" style="border-radius:12px; box-shadow:0 0 25px #00eaff;" />
-
-<img src="https://raw.githubusercontent.com/sonukumarji7479/StaticAssets/main/top-langs.png" width="350px" style="border-radius:12px; box-shadow:0 0 25px #ff0099;" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
 
 # 💻 Tech Stack
 
