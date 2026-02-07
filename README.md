@@ -45,21 +45,38 @@
 
 </div>
 
-## 🌐 Connect with me
+## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sonukumarji7479)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-5b4753280)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](http://youtube.com/channel/UCc1-1yV9uLieezOky-zGEJg)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr_sonu__0073?igsh=c2diOHdtajF4Ync4)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](http://facebook.com/profile.php?id=100049635426034)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sonukumar9303343@gmail.com&su=Hello%20Sonu%20Kumar&body=Hi%20Sonu,%20I%20saw%20your%20GitHub%20profile!)
+<div align="left">
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github)](https://github.com/sonukumarji7479)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://youtube.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](http://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](http://linkedin.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100049635426034)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonukumar9303343@gmail.com)
 
-<!-- Snake Game Repo View -->
+</div>
+
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonukumarji7479&theme=discord&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy-mirror.vercel.app/?username=sonukumarji7479&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
+
+
+<!--## 🏆 Premium Stats (Animated Look – Always Visible)-->
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<img src="https://raw.githubusercontent.com/sonukumarji7479/StaticAssets/main/stats.png" width="350px" style="border-radius:12px; box-shadow:0 0 25px #7a00ff;" />
+
+<img src="https://raw.githubusercontent.com/sonukumarji7479/StaticAssets/main/streak.png" width="350px" style="border-radius:12px; box-shadow:0 0 25px #00eaff;" />
+
+<img src="https://raw.githubusercontent.com/sonukumarji7479/StaticAssets/main/top-langs.png" width="350px" style="border-radius:12px; box-shadow:0 0 25px #ff0099;" />
+
+</div>
 
 # 💻 Tech Stack
 
@@ -67,7 +84,9 @@
 
 ### 🖥️ Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
+style="margin:5px; transition:0.3s; border-radius:10px;" />
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -96,38 +115,45 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-</div>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📊 GitHub Stats
 
-<div align="center" style="border: 2px solid #7a00ff; border-radius: 15px; padding: 15px; background: linear-gradient(135deg, #0a001a, #190033);">
+<div align="center" style="border: 3px solid #7a00ff; border-radius: 20px; padding: 20px; background: #050009;">
 
-<table>
+<table style="width:100%; table-layout: fixed;">
 <tr>
-<td align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=sonukumarji7479&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
 
-</td>
-<td align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonukumarji7479&theme=tokyonight&hide_border=false" height="160px"/>
-
+<!-- GitHub Stats -->
+<td align="center" style="padding: 10px;">
+<img 
+  src="https://github-readme-stats-salesp07.vercel.app/api?username=sonukumarji7479&theme=tokyonight&show_icons=true&hide_border=false" 
+  height="200px"
+/>
 </td>
 
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumarji7479&theme=tokyonight&hide_border=false&layout=compact" height="160px"/>
-
+<!-- Streak Stats -->
+<td align="center" style="padding: 10px;">
+<img 
+  src="https://streak-stats.demolab.com/?user=sonukumarji7479&theme=tokyonight&hide_border=false" 
+  height="200px"
+/>
 </td>
+
+<!-- Top Languages -->
+<td align="center" style="padding: 10px;">
+<img 
+  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sonukumarji7479&layout=compact&theme=tokyonight&hide_border=false" 
+  height="200px"
+/>
+</td>
+
 </tr>
 </table>
+
 </div>
 
 
-<br>
+
 <!--fun facts-->
 <h2 align="center">🔥 Skills & Passion</h2>
 
