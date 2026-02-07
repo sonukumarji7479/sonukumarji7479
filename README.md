@@ -57,10 +57,9 @@
 
 <!-- Snake Game Repo View -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sonukumarji7479&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonukumarji7479&theme=discord&no-frame=true&margin-w=10" />
+</p>
 
 # 💻 Tech Stack
 
